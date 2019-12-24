@@ -42,16 +42,13 @@ sections:
     subtitle: ''
     title: 'Contact: 0344-227007'
     type: ctablock
-  - type: contentblock
-    title: Adres
-    section_id: text-img
-    component: content_block.html
+  - component: content_block.html
     content: >-
-      Het Kind Expertise Centrum bevindt zich in het op de Dodewaardlaan 5-09, 4006 EA Tiel
-# menu:
-#   main:
-#     name: Home
-#     weight: 1
+      Het Kind Expertise Centrum bevindt zich op de Dodewaardlaan 5-09, 4006 EA
+      Tiel
+    section_id: text-img
+    title: Adres
+    type: contentblock
 layout: home
 ---
 
