@@ -60,9 +60,7 @@ sections:
     subtitle: An optional subtitle of the section
     title: Sample Layouts
     type: featuresblock
-  - actions:
-      - label: Bel nu
-        url: 'tel:0344-227007'
+  - actions: []
     component: cta_block.html
     section_id: cta
     subtitle: ''
