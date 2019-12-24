@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 content: ''
 links: []
 has_social: true
+=======
+content: '&copy; KEC Tiel. All rights reserved.'
+links:
+has_social: false
+>>>>>>> Stashed changes
