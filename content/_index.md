@@ -11,8 +11,7 @@ sections:
   - component: features_block.html
     featureslist:
       - actions: []
-        content: >-
-          Het Kind Expertise Centrum is een centrum voor kinderen die meerdere
+        content: Het Kind Expertise Centrum is een centrum voor kinderen die meerdere
           problemen hebben. In het centrum werken verschillende zorgverleners
           samen; een orthopedagoog, logopedist, kinderfysiotherapeut,
           kinderoefentherapeut, psychosomatisch therapeut en diëtist. Zij zoeken
@@ -20,15 +19,13 @@ sections:
           kan worden. Binnen een week wordt het traject gestart.
         title: Wat is het Kind Expertisecentrum?
       - actions: []
-        content: >-
-          Het Kind Expertise Centrum is er voor kinderen van 0-18 jaar met
+        content: Het Kind Expertise Centrum is er voor kinderen van 0-18 jaar met
           verschillende klachten, zoals problemen met bewegen of spreken,
           problemen op school, gedragsproblemen, slaapproblemen,
           gewichtsproblemen of andere (pijn)klachten
         title: Wat voor klachten?
       - actions: []
-        content: >-
-          U kunt uw kind telefonisch aanmelden bij het Kind Expertise Centrum. U
+        content: U kunt uw kind telefonisch aanmelden bij het Kind Expertise Centrum. U
           krijgt per mail een korte vragenlijst over uw kind. Het centrum
           bevindt zich in het Eerstelijns Centrum Tiel. Het onderzoek en advies
           van het Kind Expertise Centrum worden vergoed door uw zorgverzekeraar
@@ -39,16 +36,14 @@ sections:
   - actions: []
     component: cta_block.html
     section_id: cta
-    subtitle: ''
-    title: 'Contact: 0344-227007'
+    subtitle: ""
+    title: "Contact: 0623330022"
     type: ctablock
   - component: content_block.html
-    content: >-
-      Het Kind Expertise Centrum bevindt zich op de Dodewaardlaan 5-09, 4006 EA
-      Tiel
+    content: Het Kind Expertise Centrum bevindt zich op de Dodewaardlaan 5-09, 4006
+      EA Tiel
     section_id: text-img
     title: Adres
     type: contentblock
 layout: home
 ---
-
