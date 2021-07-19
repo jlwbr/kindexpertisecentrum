@@ -37,7 +37,7 @@ sections:
     component: cta_block.html
     section_id: cta
     subtitle: ""
-    title: "Contact: 06-23330022"
+    title: "Contact: 0344225119"
     type: ctablock
   - component: content_block.html
     content: Het Kind Expertise Centrum bevindt zich op de Dodewaardlaan 5-09, 4006
